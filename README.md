@@ -7,3 +7,5 @@ ini adalah frequensi counter 1 Hz - 30 Mhz. project asli dapat dilihat https://w
 pada prject ini saya menggunakan oled display dan library arduinostm32 yang baru. sehingga ada penyesuaian.
 
 contoh dapat dilihat pada video berikut :
+
+https://www.youtube.com/watch?v=hSBsUe2fvBs
